@@ -1,7 +1,7 @@
 # <h1 align="center"> Olá, me chamo Paulo Caldeira</h1>
 ### <h3 align="center">Bem vindo ao meu perfil GitHub 👋</h3>
 
-Sou formado em Ciências Biológicas :alembic: e atualmente estou em transição de carreira para de área de dados :abacus:. Venho estudando muito a linguagem python :snake: para análise, tratamento e limpeza de dados, e criação de aplicações web como Streamlit. É possível ver alguns dos meus trabalhos no meu perfil, aqui mesmo no [Git](https://github.com/paulocaldeiraa?tab=repositories). 
+Sou formado em Ciências Biológicas :alembic: e atualmente estou em transição de carreira para de área de dados :abacus:. Venho estudando muito a linguagem python :snake: para análise, tratamento, limpeza de dados e criação de aplicações web como Streamlit. É possível ver alguns dos meus trabalhos no meu perfil, aqui mesmo no [Git](https://github.com/paulocaldeiraa?tab=repositories). 
 
 Sou muito animado, estou adorando aprender sobre novas ferramentas e como elas podem me ajudar e ajudar outras pessoas! Tenho um gatinho, que é minha paixão, sempre me acompanha nas horas de jogatina :video_game: e estudos :books:!! 
 
@@ -25,8 +25,8 @@ Sou muito animado, estou adorando aprender sobre novas ferramentas e como elas p
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-Está sendo um desafio e a cada ValueError ou AttributeError, o coração enche raiva e aprendizado, e mais eu amo esse rolê!
-Atualmente tenho aprendido algumas bibliotecas para Python, especialmente o flask. Construí algumas aplicações web já, mas foram com Streamlit. Que inclusive acho super intuitiva de usar e tem uma documentação incrível! 
+Está sendo um desafio e a cada ValueError ou AttributeError, o coração enche raiva e aprendizado, mas eu amo esse rolê!
+Atualmente tenho aprendido algumas bibliotecas para Python, especialmente o flask. Construí algumas aplicações web com Streamlit. Que inclusive acho super intuitiva de usar e tem uma documentação incrível! 
 
 ## Contatos:
 
